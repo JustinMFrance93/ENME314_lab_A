@@ -7,6 +7,6 @@ the pipe. You will practice reading piezometers. You will apply the advice above
 measurements, estimating uncertainty and accuracy, plotting data and reporting results with 
 uncertainties. 
 
-From the use of python the data was processed and the following values was caculated:piozometer head differences, 
+ Python t was used to procese  the lab results where following values was caculated:piozometer head differences, 
 Reynolds numbers and flow rates through the venturi and orifice plate. A plot comparing the caculated flow rates throught the orifce plate
 and  ventruir was then conpaired to the electrionic flow meter readings. 
